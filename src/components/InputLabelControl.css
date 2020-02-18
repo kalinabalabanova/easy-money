@@ -1,0 +1,12 @@
+.inputBasic{
+    background:white;
+    color:#34495e;
+    text-align:center;
+    font-family:Helvetica, Arial, sans-serif;
+    font-size:10pt;
+    width:200px;
+    height: 50px;
+    margin:0 auto;
+    border-radius:10px;
+    margin-bottom:20px;
+}

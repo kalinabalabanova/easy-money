@@ -1,15 +1,19 @@
 import React from 'react';
-import Input from './components/Input';
+import InputLabelControl from './components/InputLabelControl';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <div>
-      My easy money app
+        My easy money app
       </div>
 
-   <Input />
+    
+      <InputLabelControl type="text" placeholder="Username"> <strong>sadas</strong></InputLabelControl>
+
+     
+
     </div>
   );
 }
