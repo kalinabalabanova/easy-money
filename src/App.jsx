@@ -1,5 +1,5 @@
 import React from 'react';
-import InputLabelControl from './components/InputLabelControl';
+import LoginForm from './components/LoginForm';
 import './App.css';
 
 function App() {
@@ -10,10 +10,10 @@ function App() {
       </div>
 
     
-      <InputLabelControl type="text" placeholder="Username"> <strong>sadas</strong></InputLabelControl>
+      <LoginForm> <strong>sadas</strong></LoginForm>
 
      
-
+ 
     </div>
   );
 }
